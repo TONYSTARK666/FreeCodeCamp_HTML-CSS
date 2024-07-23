@@ -6,3 +6,5 @@
    > [Исходный код](https://github.com/TONYSTARK666/FreeCodeCamp_HTML-CSS/tree/main/Ex.%202%20-%20Cafe%20Menu)
 3. Изучение цветов в CSS и реализация проекта Colored Markers
    > [Исходный код](https://github.com/TONYSTARK666/FreeCodeCamp_HTML-CSS/tree/main/Ex.%203%20-%20Colored%20Markers)
+4. Изучение тегов формы в HTML и реализация проекта Registration Form
+   > [Исходный код](https://github.com/TONYSTARK666/FreeCodeCamp_HTML-CSS/tree/main/Ex.%204%20-%20Registration%20Form)
